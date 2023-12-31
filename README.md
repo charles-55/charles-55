@@ -94,24 +94,18 @@
 </table>
 
 ## 📊 GitHub Stats
-<div style="text-align: center">
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=charles-55&show_icons=true&count_private=true&theme=github_dark" height="200" alt="My github stats" style="margin: 5px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-55&theme=github_dark&layout=donut&langs_count=10&" height="200" alt="My most used languages" style="margin: 5px">
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charles55" alt="My wakatime stats" style="margin: 5px">
 </div>
 
-<!--
-**charles-55/charles-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Contact Me
+<table>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/osamudiamen-nwoko/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /></a></td>
+		<td><a href="https://github.com/charles-55" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /></a></td>
+		<td><a href="https://discord.com/users/.charles55" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="60" height="60" alt="Discord" /></a></td>
+	</tr>
+</table>
