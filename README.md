@@ -1,4 +1,4 @@
-# Hi, my name is Osamudiamen Charles Nwoko 👋
+# Hi, I'm Osamudiamen Charles Nwoko 👋
 
 ## 💬 About Me
 - 🎓 Student at Carleton University, Ottawa.
