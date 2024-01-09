@@ -52,7 +52,7 @@
 ### Cloud Computing
 <table>
 	<tr>
-		<td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="60" height="60" alt="AWS" /></a></td>
+		<td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" /></a></td>
 		<td><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="60" height="60" alt="Azure" /></a></td>
 		<td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="60" height="60" alt="Firebase" /></a></td>
 	</tr>
