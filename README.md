@@ -107,5 +107,6 @@
 		<td><a href="https://www.linkedin.com/in/osamudiamen-nwoko/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /></a></td>
 		<td><a href="https://github.com/charles-55" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /></a></td>
 		<td><a href="https://discord.com/users/.charles55" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="60" height="60" alt="Discord" /></a></td>
+		<td><a href="https://www.instagram.com/ncharles_55/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" /></a></td>
 	</tr>
 </table>
