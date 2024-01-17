@@ -15,6 +15,7 @@
 		<td><a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" /></a></td>
 		<td><a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="60" height="60" alt="C++" /></a></td>
 		<td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60" /></a></td>
+		<td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="60" height="60" alt="Swift" /></a></td>
 		<td><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="60" height="60" alt="Flutter" /></a></td>
 		<td><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="60" height="60" alt="Dart" /></a></td>
 	</tr>
