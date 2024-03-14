@@ -4,7 +4,7 @@
 - 🎓 Student at Carleton University, Ottawa.
 - 📚 Studying software engineering.
 - 🌎 Currently based in Ottawa, Ontario, CA.
-- ✉️ You can contact me at [osamudiamennwoko@cmail.carleton.ca](mailto:osamudiamennwoko@outlook.com).
+- ✉️ You can contact me at [osamudiamennwoko@outlook.com](mailto:osamudiamennwoko@outlook.com).
 
 ## <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> My Skills
 ### App Development
