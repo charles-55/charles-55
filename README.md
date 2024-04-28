@@ -5,6 +5,7 @@
 - 📚 Studying software engineering.
 - 🌎 Currently based in Ottawa, Ontario, CA.
 - ✉️ You can contact me at [osamudiamennwoko@outlook.com](mailto:osamudiamennwoko@outlook.com).
+- 🌐 Visit [my website](https://charles-55.github.io/osamudiamennwoko/)!
 
 ## <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> My Skills
 ### App Development
@@ -29,7 +30,7 @@
 		<td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" /></a></td>
 		<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a></td>
 		<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="Node.JS" /></a></td>
-		<td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=php&theme=dark" width="60" height="60" alt="PHP" /></a></td>
+		<td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a></td>
 	</tr>
 </table>
 
@@ -108,6 +109,5 @@
 		<td><a href="https://www.linkedin.com/in/osamudiamen-nwoko/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /></a></td>
 		<td><a href="https://github.com/charles-55" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /></a></td>
 		<td><a href="https://discord.com/users/.charles55" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="60" height="60" alt="Discord" /></a></td>
-		<td><a href="https://www.instagram.com/ncharles_55/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" /></a></td>
 	</tr>
 </table>
