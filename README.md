@@ -3,7 +3,6 @@
 ## 💬 About Me
 - 🎓 Graduate from Carleton University, Ottawa.
 - 📚 Bachelor's Degree in Software Engineering.
-- 🌎 Currently based in Ottawa, Ontario, CA.
 - ✉️ You can contact me at [osamudiamennwoko@outlook.com](mailto:osamudiamennwoko@outlook.com).
 - 🌐 Visit [my website](https://charles-55.github.io/osamudiamennwoko/)!
 
