@@ -99,7 +99,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=charles-55&show_icons=true&count_private=true&theme=github_dark" height="200" alt="My github stats" style="margin: 5px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-55&theme=github_dark&layout=donut&langs_count=10&" height="200" alt="My most used languages" style="margin: 5px">
 	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charles55" alt="My wakatime stats" style="margin: 5px">
 </div>
 
 ### 📱 Contact Me
