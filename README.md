@@ -4,7 +4,7 @@
 - 🎓 Graduate from Carleton University, Ottawa.
 - 📚 Bachelor's Degree in Software Engineering.
 - ✉️ You can contact me at [osamudiamennwoko@outlook.com](mailto:osamudiamennwoko@outlook.com).
-- 🌐 Visit [my website](https://charles-55.github.io/osamudiamennwoko/)!
+- 🌐 Visit [my website](https://osamudiamennwoko.vercel.app/)!
 
 ## <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> My Skills
 ### App Development
