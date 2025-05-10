@@ -7,29 +7,37 @@
 - 🌐 Visit [my website](https://osamudiamennwoko.vercel.app/)!
 
 ## <img align='center' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> My Skills
-### App Development
+### Programming Languages
 <table>
 	<tr>
-		<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a></td>
-		<td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=java&theme=dark" width="60" height="60" alt="Java" /></a></td>
-		<td><a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" /></a></td>
-		<td><a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="60" height="60" alt="C++" /></a></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="60" height="60" alt="TypeScript" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="60" alt="Java" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="60" height="60" alt="Swift" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="60" height="60" alt="Kotlin" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="60" height="60" alt="TailwindCSS" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></td>
+		<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="60" height="60" alt="Dart" /></td>
+	</tr>
+</table>
+
+### Frameworks & Tools
+<table>
+	<tr>
 		<td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60" /></a></td>
-		<td><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="60" height="60" alt="Swift" /></a></td>
 		<td><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="60" height="60" alt="Flutter" /></a></td>
-		<td><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="60" height="60" alt="Dart" /></a></td>
 	</tr>
 </table>
 
 ### Web Development
 <table>
 	<tr>
-		<td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a></td>
-		<td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" /></a></td>
 		<td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" /></a></td>
-		<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a></td>
 		<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="Node.JS" /></a></td>
-		<td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a></td>
 	</tr>
 </table>
 
